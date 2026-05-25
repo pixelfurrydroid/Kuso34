@@ -6,6 +6,7 @@ kuso34.straw.page
 # Ad
 
 <img width="699" height="127" alt="image" src="https://github.com/user-attachments/assets/9874067c-87e9-48ca-99c8-05d2c8046747" />
+
 This is what the ad looks like on the site. If you want to post an ad, contact me at "Submit your image!"
 
 # Uploads counter
